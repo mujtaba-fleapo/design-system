@@ -1,9 +1,21 @@
 {
   "name": "@mujtaba-fleapo/design-system",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "lib.js",
+  "type": "module",
+  "module": "dist/lib.js",
+  "exports": {
+    ".": {
+      "import": "./lib.js",
+      "types": "./lib.d.ts"
+    }
+  },
   "devDependencies": {},
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
