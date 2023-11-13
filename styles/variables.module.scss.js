@@ -1,0 +1,2 @@
+import a from"../node_modules/.pnpm/style-inject@0.3.0/node_modules/style-inject/dist/style-inject.es.js";var e={black:"#000",white:"#fff",gray:"#6b7683",orange:"#eb543f",red:"#b33234",lightgray100:"#f8fafc",lightgray200:"#f1f4f8",lightgray300:"#ebeff4",lightgray400:"#e5eaf1",lightgray500:"#e0e5eb",lightgray600:"#c7cbd1",darkgray100:"#6f6f6f",darkgray200:"#565656",darkgray300:"#3d3d3d",darkgray400:"#1f1f1f",darkgray500:"#141414",xs:"0",sm:"360",sd:"768",md:"992",lg:"1200",xl:"1536"};a("");export{e as default};
+//# sourceMappingURL=variables.module.scss.js.map

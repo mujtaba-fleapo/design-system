@@ -1,0 +1,1 @@
+{"version":3,"file":"AddComment.d.ts","sourceRoot":"","sources":["../../../src/components/post/AddComment.tsx"],"names":[],"mappings":"AAUA,UAAU,KAAK;IACb,QAAQ,EAAE,CAAC,OAAO,EAAE,MAAM,KAAK,IAAI,CAAC;IACpC,OAAO,CAAC,EAAE,OAAO,CAAC;IAClB,UAAU,CAAC,EAAE,MAAM,CAAC;CACrB;AAED,eAAO,MAAM,UAAU,sCAAuC,KAAK,4CAmHlE,CAAC"}

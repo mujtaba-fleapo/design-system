@@ -1,0 +1,1 @@
+{"version":3,"file":"Chip.d.ts","sourceRoot":"","sources":["../../src/elements/Chip.tsx"],"names":[],"mappings":"AAOA,UAAU,KAAK;IACb,KAAK,EAAE,MAAM,CAAC;IACd,OAAO,CAAC,EAAE,MAAM,IAAI,CAAC;IACrB,OAAO,EAAE,OAAO,GAAG,MAAM,GAAG,OAAO,CAAC;IACpC,aAAa,CAAC,EAAE,OAAO,CAAC;CACzB;AAED,eAAO,MAAM,IAAI,UAAW,KAAK,4CAwBhC,CAAC"}

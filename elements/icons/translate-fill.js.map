@@ -1,0 +1,1 @@
+{"version":3,"file":"translate-fill.js","sources":["../../../src/elements/icons/translate-fill.ts"],"sourcesContent":["export function translateFill(color: any) {\n  return color;\n}\n"],"names":["translateFill","color"],"mappings":"AAAM,SAAUA,EAAcC,GAC5B,OAAOA,CACT"}

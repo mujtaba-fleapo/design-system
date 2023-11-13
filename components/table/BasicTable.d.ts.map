@@ -1,0 +1,1 @@
+{"version":3,"file":"BasicTable.d.ts","sourceRoot":"","sources":["../../../src/components/table/BasicTable.tsx"],"names":[],"mappings":"AAKA,UAAU,KAAK;IACb,IAAI,EAAE;QACJ,KAAK,EAAE,MAAM,CAAC;QACd,KAAK,EAAE,MAAM,CAAC;KACf,EAAE,CAAC;CACL;AAED,eAAO,MAAM,UAAU,aAAc,KAAK,4CAwBzC,CAAC"}

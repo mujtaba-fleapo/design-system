@@ -1,0 +1,21 @@
+{
+  "name": "@mujtaba-fleapo/design-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mujtaba-fleapo/design-system.git"
+  },
+  "author": "Mujtaba Basheer",
+  "license": "ISC",
+  "types": "./lib.d.ts",
+  "bugs": {
+    "url": "https://github.com/mujtaba-fleapo/design-system/issues"
+  },
+  "homepage": "https://github.com/mujtaba-fleapo/design-system#readme"
+}

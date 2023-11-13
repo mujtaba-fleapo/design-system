@@ -1,0 +1,2 @@
+import r from"./variables.module.scss.js";const a={black:r.black,white:r.white,grayText:r.gray,attentionOrange:r.orange,errorRed:r.red,lightgray:{100:r.lightgray100,200:r.lightgray200,300:r.lightgray300,400:r.lightgray400,500:r.lightgray500,600:r.lightgray600},darkgray:{100:r.darkgray100,200:r.darkgray200,300:r.darkgray300,400:r.darkgray400,500:r.darkgray500}};export{a as colors};
+//# sourceMappingURL=colors.js.map

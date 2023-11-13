@@ -1,0 +1,1 @@
+{"version":3,"file":"DesktopLinkList.d.ts","sourceRoot":"","sources":["../../../src/components/navigation/DesktopLinkList.tsx"],"names":[],"mappings":"AAQA,UAAU,KAAK;IACb,OAAO,EAAE;QAAE,KAAK,EAAE,MAAM,CAAC;QAAC,GAAG,EAAE,MAAM,CAAA;KAAE,EAAE,CAAC;IAC1C,OAAO,CAAC,EAAE,CAAC,GAAG,EAAE,MAAM,KAAK,OAAO,CAAC;CACpC;AACD,eAAO,MAAM,eAAe,UAAW,KAAK,4CAqC3C,CAAC"}

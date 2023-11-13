@@ -1,0 +1,2 @@
+import{jsx as t}from"react/jsx-runtime";import a from"../node_modules/.pnpm/@mui_material@5.14.17_@emotion_react@11.11.1_@emotion_styled@11.11.0_@types_react@18.2.37_react-dom@18.2.0_react@18.2.0/node_modules/@mui/material/Avatar/Avatar.js";const e=e=>{const r="fanfix"===e.src?"https://fanfix-icons.pages.dev/FanfixAvatar.png":e.src?e.src:"https://fanfix-icons.pages.dev/DefaultAvatar.svg";return t(a,{"data-testid":"avatar-ds",alt:e.alt||"Avatar",src:r,sx:{width:e.size||40,height:e.size||40},onClick:()=>e.onClick?.()})};export{e as Avatar};
+//# sourceMappingURL=Avatar.js.map
