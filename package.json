@@ -26,11 +26,11 @@
     "generate": "graphql-codegen"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@mujtaba-fleapo:registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fanfix/fanfix-frontend.git"
+    "url": "https://github.com/mujtaba-fleapo/design-system.git"
   },
   "dependencies": {
     "@emotion/react": "^11.11.4",
