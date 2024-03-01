@@ -1,6 +1,6 @@
 {
   "name": "@mujtaba-fleapo/design-system",
-  "version": "1.6.97",
+  "version": "1.6.98",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
