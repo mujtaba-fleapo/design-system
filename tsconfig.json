@@ -1,0 +1,41 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "useDefineForClassFields": true,
+    "lib": [
+      "DOM",
+      "DOM.Iterable",
+      "ESNext"
+    ],
+    "allowJs": false,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "declaration": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    // "declarationMap": true,
+    "outDir": "dist",
+    "declarationDir": "dist",
+    // "paths": {
+    //   "@/src/*": ["./src/*"],
+    //   "@/components/*": ["./src/components/*"],
+    //   "@/icons/*": ["./src/elements/icons/*"],
+    //   "@/images/*": ["./src/assets/images/*"],
+    //   "@/styles/*": ["./src/styles/*"],
+    //   "@/theme/*": ["./src/theme/*"]
+    // }
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

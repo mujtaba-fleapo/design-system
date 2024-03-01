@@ -1,0 +1,64 @@
+$black: #000;
+$white: #fff;
+$gray: #6b7683;
+$orange: #eb543f;
+$errorRed: #b33234;
+$lightGreen: #E6F6EE;
+$darkGreen: #00A254;
+$lightgray: (
+  100: #f8fafc,
+  200: #f1f4f8,
+  300: #ebeff4,
+  400: #e5eaf1,
+  500: #e0e5eb,
+  600: #c7cbd1,
+
+);
+$darkgray: (
+  100: #6f6f6f,
+  200: #565656,
+  300: #3d3d3d,
+  400: #1f1f1f,
+  500: #141414
+);
+
+$breakpoints: (
+  xs: 0,
+  sm: 360,
+  sd: 768,
+  md: 992,
+  lg: 1200,
+  xl: 1536,
+);
+$primarygradient: linear-gradient(125deg, #D4F8FB, #FDC8F6, #FEEDE7);
+$maskingWhite:#ffffff99;
+
+:export {
+  black: $black;
+  white: $white;
+  gray: $gray;
+  orange: $orange;
+  errorRed: $errorRed;
+  lightGreen: $lightGreen;
+  darkGreen: $darkGreen;
+  lightgray100: map-get($lightgray, 100);
+  lightgray200: map-get($lightgray, 200);
+  lightgray300: map-get($lightgray, 300);
+  lightgray400: map-get($lightgray, 400);
+  lightgray500: map-get($lightgray, 500);
+  lightgray600: map-get($lightgray, 600);
+
+  darkgray100: map-get($darkgray, 100);
+  darkgray200: map-get($darkgray, 200);
+  darkgray300: map-get($darkgray, 300);
+  darkgray400: map-get($darkgray, 400);
+  darkgray500: map-get($darkgray, 500);
+  xs: map-get($breakpoints, xs);
+  sm: map-get($breakpoints, sm);
+  sd: map-get($breakpoints, sd);
+  md: map-get($breakpoints, md);
+  lg: map-get($breakpoints, lg);
+  xl: map-get($breakpoints, xl);
+  primarygradient: $primarygradient;
+  maskingWhite:$maskingWhite
+}

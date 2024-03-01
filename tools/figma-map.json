@@ -1,0 +1,330 @@
+{
+  "breakpoints": [],
+  "": [
+    "mobilefanmessageinput",
+    "desktopaddcomment",
+    "postvideo",
+    "desktopcreatormessagemodalinput",
+    "desktoptablerowfan",
+    "desktopmessagerow",
+    "mobileposttop",
+    "postimage",
+    "mobiletableposts",
+    "mobilepaymentmethodcreditcard",
+    "mobiletablefans",
+    "mobileactionmenuopen",
+    "mobilecreatorfeedsubscribed",
+    "desktoppagetitle",
+    "postshop",
+    "mobilepostcaption",
+    "desktoptabs",
+    "desktoppostcaption",
+    "desktoptablerowpost",
+    "desktopproductrow",
+    "desktopcreditcardform",
+    "mobileproductrow",
+    "mobilecreditcardform",
+    "desktopbasictable",
+    "desktoptableheaderfans",
+    "desktopbasictablerow",
+    "desktopsubmenuitem",
+    "contextmenu",
+    "mobileactionmenuclosed",
+    "desktopnotification",
+    "desktoptabtext",
+    "mobiletabs",
+    "mobiletabtext",
+    "mobilepanel",
+    "desktopsubmenu",
+    "mobilefanmessagethread",
+    "desktoppaymentmethodcreditcard",
+    "desktopcreatormessageinput",
+    "postmulti",
+    "desktopfannotificationlistitem",
+    "posttext",
+    "desktopcreatorfeedsubscribed",
+    "desktopfannavigation",
+    "desktopcreatorpagetitle",
+    "desktopcreatormessagethread",
+    "desktopposttop",
+    "desktopcheckboxlist",
+    "desktopinput",
+    "desktopfanmessageinput",
+    "mobilecreatorrow",
+    "mobilefannotificationlistitem",
+    "mobilesort",
+    "mobilecreatormessageinput",
+    "mobilepostactions",
+    "mobilecreatormessagethread",
+    "desktoptableposts",
+    "desktopcreatormessageblast",
+    "desktoplinklist",
+    "desktopsort",
+    "desktopfannotificationlist",
+    "mobilecheckboxlist",
+    "desktoptablefans",
+    "desktopcreatorrow",
+    "mobiletablerowpost",
+    "mobilemessagerow",
+    "mobileinput",
+    "mobiletablerowfan",
+    "mobileaddcomment",
+    "desktoppostactions",
+    "desktopcreatornavigation",
+    "mobilesinglecomment",
+    "mobilecreatorfeedunsubscribed",
+    "desktopsinglecomment",
+    "desktopfanmessagethread",
+    "mobilefannotificationlist",
+    "desktoptableheaderpost",
+    "desktopcreatorfeedunsubscribed"
+  ],
+  "typography": [],
+  "colors": [],
+  "icons": [],
+  "avatar": [],
+  "badge": [],
+  "checkbox": [
+    "desktopcheckboxlist",
+    "mobilecheckboxlist"
+  ],
+  "chip": [],
+  "logo": [],
+  "pillbutton": [],
+  "pilloption": [],
+  "postthumbnail": [],
+  "switch": [],
+  "textlink": [],
+  "desktopnotification": [
+    "desktopnotification"
+  ],
+  "notificationlist": [
+    "desktopfannotificationlistitem",
+    "mobilefannotificationlistitem",
+    "desktopfannotificationlist",
+    "mobilefannotificationlist"
+  ],
+  "sort": [
+    "mobilesort",
+    "desktopsort"
+  ],
+  "tabs": [
+    "desktoptabs",
+    "mobiletabs"
+  ],
+  "notificationlistitem": [
+    "desktopfannotificationlistitem",
+    "mobilefannotificationlistitem"
+  ],
+  "creatorrow": [
+    "mobilecreatorrow",
+    "desktopcreatorrow"
+  ],
+  "desktoppagetitle": [
+    "desktoppagetitle"
+  ],
+  "mediastack": [],
+  "pagetitle": [
+    "desktoppagetitle",
+    "desktopcreatorpagetitle"
+  ],
+  "profileheader": [],
+  "checkboxlist": [
+    "desktopcheckboxlist",
+    "mobilecheckboxlist"
+  ],
+  "input": [
+    "mobilefanmessageinput",
+    "desktopcreatormessagemodalinput",
+    "desktopcreatormessageinput",
+    "desktopinput",
+    "desktopfanmessageinput",
+    "mobilecreatormessageinput",
+    "mobileinput"
+  ],
+  "creatormessageinput": [
+    "desktopcreatormessageinput",
+    "mobilecreatormessageinput"
+  ],
+  "fanmessageinput": [
+    "mobilefanmessageinput",
+    "desktopfanmessageinput"
+  ],
+  "messagerow": [
+    "desktopmessagerow",
+    "mobilemessagerow"
+  ],
+  "messagethread": [
+    "mobilefanmessagethread",
+    "desktopcreatormessagethread",
+    "mobilecreatormessagethread",
+    "desktopfanmessagethread"
+  ],
+  "contextmenu": [
+    "contextmenu"
+  ],
+  "desktopcreatormenu": [],
+  "desktopcreatornavigation": [
+    "desktopcreatornavigation"
+  ],
+  "desktopfannavigation": [
+    "desktopfannavigation"
+  ],
+  "desktoplinklist": [
+    "desktoplinklist"
+  ],
+  "desktopsubmenu": [
+    "desktopsubmenuitem",
+    "desktopsubmenu"
+  ],
+  "mobileactionmenu": [
+    "mobileactionmenuopen",
+    "mobileactionmenuclosed"
+  ],
+  "mobileheader": [],
+  "mobilenavigation": [],
+  "mobilepanel": [
+    "mobilepanel"
+  ],
+  "creditcardinput": [],
+  "paymentmethodcreditcard": [
+    "mobilepaymentmethodcreditcard",
+    "desktoppaymentmethodcreditcard"
+  ],
+  "addcomment": [
+    "desktopaddcomment",
+    "mobileaddcomment"
+  ],
+  "commentstack": [],
+  "creatorpost": [],
+  "desktopposttitle": [],
+  "postactions": [
+    "mobilepostactions",
+    "desktoppostactions"
+  ],
+  "postbody": [],
+  "postcaption": [
+    "mobilepostcaption",
+    "desktoppostcaption"
+  ],
+  "postslider": [],
+  "posttop": [
+    "mobileposttop",
+    "desktopposttop"
+  ],
+  "singlecomment": [
+    "mobilesinglecomment",
+    "desktopsinglecomment"
+  ],
+  "productcolumn": [],
+  "productrow": [
+    "desktopproductrow",
+    "mobileproductrow"
+  ],
+  "basictable": [
+    "desktopbasictable",
+    "desktopbasictablerow"
+  ],
+  "desktoptable": [
+    "desktoptablerowfan",
+    "desktoptablerowpost",
+    "desktoptableheaderfans",
+    "desktoptableposts",
+    "desktoptablefans",
+    "desktoptableheaderpost"
+  ],
+  "mobiletablefans": [
+    "mobiletablefans"
+  ],
+  "mobiletableposts": [
+    "mobiletableposts"
+  ],
+  "mobiletablerowpost": [
+    "mobiletablerowpost"
+  ],
+  "modal": [
+    "desktopcreatormessagemodalinput"
+  ],
+  "otpinput": [],
+  "phonenumberinput": [],
+  "select": [],
+  "unUsed": [
+    "mobilefanmessageinput",
+    "desktopaddcomment",
+    "postvideo",
+    "desktopcreatormessagemodalinput",
+    "desktoptablerowfan",
+    "desktopmessagerow",
+    "mobileposttop",
+    "postimage",
+    "mobiletableposts",
+    "mobilepaymentmethodcreditcard",
+    "mobiletablefans",
+    "mobileactionmenuopen",
+    "mobilecreatorfeedsubscribed",
+    "desktoppagetitle",
+    "postshop",
+    "mobilepostcaption",
+    "desktoptabs",
+    "desktoppostcaption",
+    "desktoptablerowpost",
+    "desktopproductrow",
+    "desktopcreditcardform",
+    "mobileproductrow",
+    "mobilecreditcardform",
+    "desktopbasictable",
+    "desktoptableheaderfans",
+    "desktopbasictablerow",
+    "desktopsubmenuitem",
+    "contextmenu",
+    "mobileactionmenuclosed",
+    "desktopnotification",
+    "desktoptabtext",
+    "mobiletabs",
+    "mobiletabtext",
+    "mobilepanel",
+    "desktopsubmenu",
+    "mobilefanmessagethread",
+    "desktoppaymentmethodcreditcard",
+    "desktopcreatormessageinput",
+    "postmulti",
+    "desktopfannotificationlistitem",
+    "posttext",
+    "desktopcreatorfeedsubscribed",
+    "desktopfannavigation",
+    "desktopcreatorpagetitle",
+    "desktopcreatormessagethread",
+    "desktopposttop",
+    "desktopcheckboxlist",
+    "desktopinput",
+    "desktopfanmessageinput",
+    "mobilecreatorrow",
+    "mobilefannotificationlistitem",
+    "mobilesort",
+    "mobilecreatormessageinput",
+    "mobilepostactions",
+    "mobilecreatormessagethread",
+    "desktoptableposts",
+    "desktopcreatormessageblast",
+    "desktoplinklist",
+    "desktopsort",
+    "desktopfannotificationlist",
+    "mobilecheckboxlist",
+    "desktoptablefans",
+    "desktopcreatorrow",
+    "mobiletablerowpost",
+    "mobilemessagerow",
+    "mobileinput",
+    "mobiletablerowfan",
+    "mobileaddcomment",
+    "desktoppostactions",
+    "desktopcreatornavigation",
+    "mobilesinglecomment",
+    "mobilecreatorfeedunsubscribed",
+    "desktopsinglecomment",
+    "desktopfanmessagethread",
+    "mobilefannotificationlist",
+    "desktoptableheaderpost",
+    "desktopcreatorfeedunsubscribed"
+  ]
+}
